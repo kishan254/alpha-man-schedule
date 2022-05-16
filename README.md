@@ -1,6 +1,21 @@
 # alpha-man-schedule
 This is a generic event schedule, in which the user can save events for the day ion their local storage
 
+This project was intended to utilise the skills of showing time and date, storing content in the local storage by clicking the save button
+
+Hope this project can help you in understadning the simple local storage characteristics
+
+## Tabel of Contents
+
+* [Links](#Links)
+* [Screenshot](#Screenshots)
+* [Contribute](#contribute)
+* [Tests](#tests)
+* [Screenshots](#screenshots)
+* [Technology](#technology)
+* [Making](#making)
+* [Questions](#questions)
+
 # Links to the Repo and Live
 
 Github Repo: https://github.com/kishan254/alpha-man-schedule
@@ -11,12 +26,13 @@ Live Url: https://kishan254.github.io/alpha-man-schedule/
 
 ![pageOne](one.png)
 
-# About the project
 
-This project was intended to utilise the skills of showing time and date, storing content in the local storage by clicking the save button, and lastly using the  
+## Questions
 
-const row = $("<div>").attr("class", "row"); to create the rows of time blocks
+Please click the links below
 
-I still have so much to learn about programming, I have only started my jounrey it is an amazing experience so far and I am lucky to have help from my friends, and tutors
+[Github] (https://github.com/kishan254)
 
-Hope this project can help you in understadning the simple local storage characteristics
+Write me on;
+
+[Email] (kishan.gosrani@hotmail.com)
