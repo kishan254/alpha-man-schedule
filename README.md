@@ -9,11 +9,6 @@ Hope this project can help you in understadning the simple local storage charact
 
 * [Links](#Links)
 * [Screenshot](#Screenshots)
-* [Contribute](#contribute)
-* [Tests](#tests)
-* [Screenshots](#screenshots)
-* [Technology](#technology)
-* [Making](#making)
 * [Questions](#questions)
 
 # Links to the Repo and Live
